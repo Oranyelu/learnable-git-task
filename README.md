@@ -1,7 +1,5 @@
 # learnable-git-task
 git task by George Chime
-# learnable-git-task
-git task by George Chime
 
 # Explain version control. 
 version control is the general practise of tracking and managing changes made to a code.
