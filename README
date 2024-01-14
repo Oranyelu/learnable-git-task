@@ -1,0 +1,18 @@
+<h1> Explain version control. <h1>
+version control is the general practise of tracking and managing changes made to a code.
+</h1 >
+Explain difference between git and github <h1>
+Git is a version control system while Github is a hosting service for version control and repositories
+</h1>
+List 3 other github alternatives <h1>
+Gitea
+Apache Allura Sourceforge
+</h1 >
+Explain the difference between git fetch and git pull, <h1 >
+git pull copies changes from remote repositories directly into the working directory while git fetch can only copy changes into your locaL GIT repository.
+</h1>
+Explain in simple terms git rebase and the command for it <h1 >
+Git rebase simply means to add new commits to the main branch (or the root branch). it is like making the new work the original (main} work command- git rebase <base>
+</h1>
+Explain in simple terms git cherry-pick and the command for it</h1>
+cherry pick simply means choosing a commit from one branch and applying it to another command - git cherry-pick «commit>
